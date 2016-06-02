@@ -6,16 +6,20 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: Journalistic Instinct
+email: ychristinezhang@gmail.com
+description:  # this means to ignore newlines until "baseurl:"
+  Knight-Mozilla <a href="https://opennews.org/what/fellowships/info/">OpenNews</a> Fellow at <a href="https://twitter.com/LATdatadesk">L.A. Times</a>, 
+  ex-think-tanker at <a href="https://twitter.com/BrookingsGlobal">Brookings</a>, 
+  aspiring data journalist at ???
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://underthecurve.github.io" # the base hostname & protocol for your site
+twitter_username: christinezhang
+github_username:  underthecurve
 
 # Build settings
 markdown: kramdown
+
+# Markdown Processors
+kramdown:
+  input: GFM
