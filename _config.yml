@@ -9,9 +9,9 @@
 title: Journalistic Instinct
 email: ychristinezhang@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Knight-Mozilla OpenNews Fellow at the L.A. Times, 
+  current Knight-Mozilla OpenNews Fellow at the L.A. Times, 
   ex-think-tanker at The Brookings Institution, 
-  aspiring data journalist at ???
+  future (data) journalist at ???
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://underthecurve.github.io" # the base hostname & protocol for your site
 twitter_username: christinezhang
