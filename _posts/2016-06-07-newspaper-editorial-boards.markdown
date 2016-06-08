@@ -7,7 +7,7 @@ categories: jekyll update
 
 Ever since I moved to L.A., my D.C. friends have asked if I've spotted anybody famous yet. 
 
-Fittingly, my first celebrity sighting was "so D.C.", when Bernie Sanders visited the Times building in March [to speak with the L.A. Times' editorial board](http://www.latimes.com/opinion/editorials/la-ed-bernie-sanders-editorial-board-20160323-snap-story.html). Hillary Clinton spoke to the Editorial Board at later date, [over the phone](http://www.latimes.com/opinion/la-ol-hillary-clinton-editorial-board-meeting-20160505-snap-story.html).
+Fittingly, my first celebrity sighting was "so D.C.", when Bernie Sanders visited the Times building in March [to speak with the L.A. Times' Editorial Board](http://www.latimes.com/opinion/editorials/la-ed-bernie-sanders-editorial-board-20160323-snap-story.html). Hillary Clinton spoke to the Editorial Board at later date, [over the phone](http://www.latimes.com/opinion/la-ol-hillary-clinton-editorial-board-meeting-20160505-snap-story.html).
 
 I didn't think much of these interviews at the time, beyond them being high-profile conversations with presidential candidates. But today was the California primary, and it came to my attention that The Times [endorsed Hillary Clinton](http://www.latimes.com/opinion/editorials/la-ed-endorsement-recap-20160605-snap-story.html) for the Democratic nomination. 
 
