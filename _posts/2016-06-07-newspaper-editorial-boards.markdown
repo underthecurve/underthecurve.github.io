@@ -5,13 +5,13 @@ date:   2016-06-07 00:30:45 -0700
 categories: jekyll update
 ---
 
-Ever since I moved to L.A., my D.C. friends have asked if I've spotted anybody famous yet. 
+Since I moved to L.A., my D.C. friends have been asking if I've spotted anybody famous yet. 
 
-Fittingly, my first celebrity sighting was "so D.C.", when Bernie Sanders visited the Times building in March [to speak with the L.A. Times' Editorial Board](http://www.latimes.com/opinion/editorials/la-ed-bernie-sanders-editorial-board-20160323-snap-story.html). Hillary Clinton spoke to the Editorial Board at later date, [over the phone](http://www.latimes.com/opinion/la-ol-hillary-clinton-editorial-board-meeting-20160505-snap-story.html).
+Fittingly, my first celebrity sighting was pretty D.C.-esque, when Bernie Sanders showed up at the Times building in March [to speak with the L.A. Times' Editorial Board](http://www.latimes.com/opinion/editorials/la-ed-bernie-sanders-editorial-board-20160323-snap-story.html). Hillary Clinton spoke to the Editorial Board at later date, [over the phone](http://www.latimes.com/opinion/la-ol-hillary-clinton-editorial-board-meeting-20160505-snap-story.html).
 
 I didn't think much of these interviews at the time, beyond them being high-profile conversations with presidential candidates. But today was the California primary, and it came to my attention that The Times [endorsed Hillary Clinton](http://www.latimes.com/opinion/editorials/la-ed-endorsement-recap-20160605-snap-story.html) for the Democratic nomination. 
 
-That would explain some of the more critical responses we've gotten following [our recent piece on Bernie Sanders' donors](http://www.latimes.com/projects/la-na-pol-sanders-donors/). Even though the article was more of an immense data-dive into Sanders supporters rather than a partisan piece (plus [Bernie himself](https://twitter.com/palewire/status/739505349435088898) had nice things say), a lot of people asked variations of the question:
+That would explain some of the more critical responses we've gotten after [our recent piece on Bernie Sanders' donors](http://www.latimes.com/projects/la-na-pol-sanders-donors/) ran in last Saturday's edition. Even though the article was more of an immense data-dive into Sanders supporters rather than a partisan piece (plus [Bernie himself](https://twitter.com/palewire/status/739505349435088898) had nice things say), a lot of people asked variations of the question:
 
 **"How can you guys cover Bernie fairly, if you support Hillary?"**
 
@@ -19,9 +19,9 @@ I'm not sure I have a complete answer. But I've learned a lot about what it mean
 
 First, it's *technically* The Times' Editorial Board that endorses Clinton.
 
-The Editorial Board authors pieces every day expressing opinions on a range of topics, beyond just political campaigns. These have included [a criticism of the Gates Foundation's U.S. education agenda](http://www.latimes.com/opinion/editorials/la-ed-gates-education-20160601-snap-story.html) to [a call for Congress to fully fund airport security](http://www.latimes.com/opinion/editorials/la-ed-airport-security-lines-20160527-snap-story.html). 
+The Editorial Board authors pieces every day expressing opinions on a range of topics, beyond just political campaigns. These have included [a criticism of the Gates Foundation's U.S. education agenda](http://www.latimes.com/opinion/editorials/la-ed-gates-education-20160601-snap-story.html) and [a call for Congress to fully fund airport security](http://www.latimes.com/opinion/editorials/la-ed-airport-security-lines-20160527-snap-story.html). 
 
-Second, **the Editorial Board [operates independently](http://www.latimes.com/la-bio-times-editorial-board-staff.html) from the newsroom.** This is an important disctinction that was easier when newspapers existed *only* in paper form. Think of it as akin to content that appears in the Opinion section. No question, it's editorially separated from the rest of the news. 
+Second, **the Editorial Board [operates independently](http://www.latimes.com/la-bio-times-editorial-board-staff.html) from the newsroom.** This is an important distinction that was much more easily understood when newspapers existed *only* in paper form. Think of it as akin to content that appears in the Opinion section. Clearly, that material is editorially separated from the rest of the news. 
 
 Of course, an article signed "The Times Editorial Board" arguably carries more weight than one signed with the name of just any columnist or contributor. 
 
@@ -31,7 +31,7 @@ Though the terminology is confusing as heck, **it makes perfect sense that there
 
 All of this is to say that **the whole *point* of the Editorial Board is to express institutional viewpoints, and to offer political endorsements, *not* to cover the news.** I understand this now, and I don't doubt newspaper political endorsements matter, especially in local elections. 
 
-Ultimately, though, I still find it hard to reconcile the fact that the Editorial Board gives the newspaper's institutional viewpoint, and yet has no bearing on the newspaper's story coverage. 
+Ultimately, though, I still find it hard to reconcile the fact that the Editorial Board gives the newspaper's opinion, and yet has no bearing on the newspaper's story coverage. 
 
 
 
