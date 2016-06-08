@@ -1,16 +1,15 @@
 ---
 layout: post
-title:  "Journalistic Jargon: Slots and Slugs"
+title:  "Journalistic jargon: slots and slugs"
 date:   2016-06-02 00:30:45 -0700
 categories: jekyll update
 ---
 
 Journalists pride themselves on avoiding jargon in their writing, but in the newsroom itself, it's a different story. 
 
-In this first edition of *Journalistic Jargon*, I'll outline what I've learned about the editing process and the terminology it entails. Who knew that backfielders, slots, rims, and slugs were all a part of it?
+Case in point: backfielders, slots, rims, and slugs ... these are just some of the terms I heard in my first few weeks of working at the Times. 
 
-Let's start with a suuuuper simplified workflow:
-
+Here's what these words me (to me). Let's start with a suuuuper simplified workflow of the editing process for a story:
 
 1. The **reporter** writes a story.
 
@@ -35,7 +34,7 @@ Today, there's been a flurry of activity about an image that Hillary Clinton's c
 
 "secret-win-V2-060416c_02" was part of the image's *slug*, or the unique name given to the png (portable network graphic) file. 
 
-A nice reminder that people do pay attention to a slugs, even if they don't know what the term entails!
+A nice reminder that people do pay attention to a slugs, even if they misinterpret what the term entails...
 
 
 
