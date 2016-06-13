@@ -6,33 +6,6 @@ date:   2016-06-01 13:30:45 -0700
 categories: jekyll update
 ---
 
-{% if page.comments %}
-<div id="disqus_thread"></div>
-<script>
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
-    */
-    (function() {  // DON'T EDIT BELOW THIS LINE
-        var d = document, s = d.createElement('script');
-        
-        s.src = '//underthecurve.disqus.com/embed.js';
-        
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
-{% endif %}
-
-
-
 **"I want to be a data journalist."**
 
 It's been over a year since these words went through my head. At the time, I was an economic research analyst in D.C. with literally zero news experience. A lot has happened since then, and I'm now three months into a ten-month [Knight-Mozilla Fellowship](https://opennews.org/what/fellowships/info/) at the [L.A. Times Data Desk](http://www.latimes.com/local/datadesk/).
@@ -58,6 +31,22 @@ I'm writing this blog as a way to chronicle my learning, as I sort through these
 And for the record, I'm thrilled that these days, I get to say the words *out loud*:
 
 **"I'm a *journalist*."** 
+
+
+{% if page.comments %}
+<div id="disqus_thread"></div>
+<script>
+    (function() {  // DON'T EDIT BELOW THIS LINE
+        var d = document, s = d.createElement('script');
+        
+        s.src = '//underthecurve.disqus.com/embed.js';
+        
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+{% endif %}
 
 
 
