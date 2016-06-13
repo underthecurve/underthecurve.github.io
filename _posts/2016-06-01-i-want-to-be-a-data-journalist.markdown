@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  '"I want to be a data journalist."'
-comments: true
 date:   2016-06-01 13:30:45 -0700
 categories: jekyll update
 ---
@@ -31,22 +30,6 @@ I'm writing this blog as a way to chronicle my learning, as I sort through these
 And for the record, I'm thrilled that these days, I get to say the words *out loud*:
 
 **"I'm a *journalist*."** 
-
-
-{% if page.comments %}
-<div id="disqus_thread"></div>
-<script>
-    (function() {  // DON'T EDIT BELOW THIS LINE
-        var d = document, s = d.createElement('script');
-        
-        s.src = '//underthecurve.disqus.com/embed.js';
-        
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
-{% endif %}
 
 
 
