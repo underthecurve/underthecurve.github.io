@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Journalistic jargon: slots and slugs"
-comments: true
 date:   2016-06-02 00:30:45 -0700
 categories: jekyll update
 ---
