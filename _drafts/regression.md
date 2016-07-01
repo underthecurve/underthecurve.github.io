@@ -450,6 +450,9 @@ Code on [github](https://github.com/OpenNewsLabs/one-regression-six-ways/blob/ma
 The observation numbers on the Influence Plot are one lower than the ones in R, because of the zero-indexing. So Equatorial Guinea is observation 54 in R, but 53 is Python.
 
 ***Verdict***: Python requires an extensive setting-up that makes it harder to get the hang of at first. That said, statsmodels does a good job of running a regression and has a lot of features. Regression diagnostics requires a lot more effort in statsmodels than I would like. It would be better if there were a function to automatically generate a few diagnostic plots. 
+<br><br>
 
+This concludes one regression, six ways! I learned a lot, and I hope you did, too.
+Take a look at the [github repo](https://github.com/OpenNewsLabs/one-regression-six-ways) if you want to see the code. Any questions, please leave a comment or shoot me an email or find me on twitter (twitter mentions make me happy, twitter follows make my day). Thanks!
 
 
