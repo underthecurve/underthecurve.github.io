@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  '6 ways to run a "simple" regression'
+date:   2016-07-01 00:00:00 -0700
 categories: jekyll update
 ---
 
@@ -27,7 +28,7 @@ Lisa was nice enough to upload the Gapminder dataset to a [Google spreadsheet](h
 
 <image src = "https://raw.githubusercontent.com/lisacharlotterost/lisacharlotterost.github.io/master/pic/160426_data.png" width = "500px"/>
 <br>
-Two things to note: 1) I won't be using population and 2) The graph *actually* shows the natural logarithim of income per capita on the x-axis (take a closer look at the x-axis labels and you'll see they've been log-transformed). So in our regression model, I will run a regression of health against the *log* of income. More info on log transformations [here](https://infoactive.co/data-design/ch11.html).
+Two things to note: 1) I won't be using population and 2) The graph shows the *natural logarithim of income per capita* on the x-axis. So in our regression model, I will run a regression of health against the *log* of income. More info on log transformations [here](https://infoactive.co/data-design/ch11.html).
 
 <br>
 **The regression**
@@ -36,7 +37,7 @@ A regression helps quantify relationships. From the graph we see that income is 
 
 How strong would this linear relationship be? Would there be countries that don't quite fit the trend (maybe those little blue points at the bottom)? How well would income explain health? 
 
-In order to start answering these questions, we need to first know the equation of the line. This requires us to run a linear regression model, with health as the y-variable and income as the x-variable (this corresponds to their position on the graph axes, too). This regression model is called a "simple" linear regression because I use just one x-variable, income, to explain health.
+In order to start answering these questions, I need to first know the equation of the line. This requires me to run a linear regression model, with health as the y-variable and income as the x-variable (this corresponds to their position on the graph axes, too). This regression model is called a "simple" linear regression because I use just one x-variable, income, to explain health.
 
 If you're lost on what regression is, take a look [here](http://onlinestatbook.com/2/regression/intro.html) and [here](https://www.openintro.org/download.php?file=os3_tablet&referrer=/stat/textbook.php#page=331) before reading on.
 
@@ -72,11 +73,11 @@ In column E, I calculated the log of income (LN stands for "natural log")
 <br>
 Hitting "OK" opens a new sheet in the Excel workbook with the following results:
 <image src = "https://github.com/OpenNewsLabs/one-regression-six-ways/blob/master/Excel/results.png?raw=true"/>
-<br>
+File saved on [github](https://github.com/OpenNewsLabs/one-regression-six-ways/blob/master/Excel/results.xlsx).
 
 Summary Output gives me the regression equation starting from row 16, plus some regression stats in the first few rows.
 
-Residual Output gives me the fitted values along with the residuals and standardized residuals, organized by observation number. 
+Residual Output gives me the fitted values along with the residuals and standardized residuals, in order of observation number. 
 
 Probability Output gives me the quantiles of health. 
 
@@ -90,7 +91,7 @@ The third is a scatterplot of residuals vs. log income. The dots look random, wi
 
 More on interpreting Excel output [here](http://cameron.econ.ucdavis.edu/excel/ex61multipleregression.html).
 
-***Verdict***: a bit cumbersome to point-and-click rather than write code, but not bad for a quick regression if the dataset isn't too big. Default diagnostic plots aren't great. Nice that Excel generates fitted values and residuals automatically.
+***Verdict***: a bit cumbersome to point-and-click rather than write code, but not bad for a quick regression if the dataset isn't too big. Default diagnostic plots aren't great. It's nice that Excel generates fitted values and residuals automatically.
 
 
 
@@ -129,7 +130,7 @@ Multiple R-squared:  0.6517,	Adjusted R-squared:  0.6498
 F-statistic: 346.1 on 1 and 185 DF,  p-value: < 2.2e-16
 ```
 
-I get can four default diagnostic plots using ```plot(reg)```:
+I can get four default diagnostic plots using ```plot(reg)```:
 
 <image src = "https://github.com/OpenNewsLabs/one-regression-six-ways/blob/master/R/regplots.png?raw=true" width = "550px"/>
 
@@ -137,7 +138,7 @@ On each plot, R helpfully labels the points that stand out with their observatio
 
 The scale-location plot provides similar information, though the y-axis is scaled such that all the numbers are positive. R overlays a loess line on both the resids vs. fitted and scale-location plots - these lines are flat, meaning the residuals satisfy the assumption of constant variance.
 
-The normal q-q plot shows the standardized residuals on the y-axis. R also draws the 45-degree line, which the points would fall on if the residuals were perfectly normally distributed. This is more helpful than Excel's and give me more information. Namely, that there are several residuals that are lower than they would be if they were normally distributed. These are mostly driven by three observations; not something to worry about too much, since the rest fit on the line pretty well, but good to keep in mind.
+The normal q-q plot shows the standardized residuals on the y-axis. R also draws the 45-degree line, which the points would fall on if the residuals were perfectly normally distributed. This is more helpful than Excel's and give me more information; namely, that there are several residuals that are lower than they would be if they were normally distributed. These are mostly driven by three observations; not something to worry about too much, since the rest fit on the line pretty well, but good to keep in mind.
 
 The residuals vs. leverage plot tries to identify influential observations. The y-axis is on a standardized scale, which is useful. I don't need to worry about Cook's distance, since the dashed line doesn't show up on the plot.
 
