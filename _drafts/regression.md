@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  '6 ways to run a "simple" regression'
-date:   2016-06-30 00:30:45 -0700
 categories: jekyll update
 ---
 
@@ -28,7 +27,7 @@ Lisa was nice enough to upload the Gapminder dataset to a [Google spreadsheet](h
 
 <image src = "https://raw.githubusercontent.com/lisacharlotterost/lisacharlotterost.github.io/master/pic/160426_data.png" width = "500px"/>
 <br>
-Two things to note: 1) I won't be using population and 2) The graph *actually* shows the natural logarithim of income per capita on the x-axis (take a closer look at the x-axis labels and you'll see they've been log-transformed). So in our regression model, I will run a regression of health against the *log* of income. You can read more about log transformations [here](https://infoactive.co/data-design/ch11.html).
+Two things to note: 1) I won't be using population and 2) The graph *actually* shows the natural logarithim of income per capita on the x-axis (take a closer look at the x-axis labels and you'll see they've been log-transformed). So in our regression model, I will run a regression of health against the *log* of income. More info on log transformations [here](https://infoactive.co/data-design/ch11.html).
 
 <br>
 **The regression**
@@ -71,7 +70,7 @@ In column E, I calculated the log of income (LN stands for "natural log")
 *Data* --> *Data Analysis* --> *Regression* brings me to this window, where I selected my data ranges and the following options:
 <image src = "https://github.com/OpenNewsLabs/one-regression-six-ways/blob/master/Excel/regressionwindow.png?raw=true" width = "250px"/>
 <br>
-Hitting "OK" opened a new sheet in the Excel workbook with the following results:
+Hitting "OK" opens a new sheet in the Excel workbook with the following results:
 <image src = "https://github.com/OpenNewsLabs/one-regression-six-ways/blob/master/Excel/results.png?raw=true"/>
 <br>
 
@@ -91,7 +90,7 @@ The third is a scatterplot of residuals vs. log income. The dots look random, wi
 
 More on interpreting Excel output [here](http://cameron.econ.ucdavis.edu/excel/ex61multipleregression.html).
 
-***Verdict***: a bit cumbersome to point-and-click rather than write code, but not bad for a quick regression if the dataset isn't too big. Default diagnostic plots aren't great. Nice that Excel spits out fitted values and residuals automatically.
+***Verdict***: a bit cumbersome to point-and-click rather than write code, but not bad for a quick regression if the dataset isn't too big. Default diagnostic plots aren't great. Nice that Excel generates fitted values and residuals automatically.
 
 
 
@@ -453,6 +452,6 @@ The observation numbers on the Influence Plot are one lower than the ones in R, 
 <br><br>
 
 This concludes one regression, six ways! I learned a lot, and I hope you did, too.
-Take a look at the [github repo](https://github.com/OpenNewsLabs/one-regression-six-ways) if you want to see the code. Any questions, please leave a comment or shoot me an email or find me on twitter (twitter mentions make me happy, twitter follows make my day). Thanks!
+Take a look at the [github repo](https://github.com/OpenNewsLabs/one-regression-six-ways) if you want to see the code. Any questions, please leave a comment or shoot me an [email](mailto: ychristinezhang@gmail.com) or find me on [twitter](https://twitter.com/christinezhang) (twitter mentions make me happy, twitter follows make my day). Thanks!
 
 
