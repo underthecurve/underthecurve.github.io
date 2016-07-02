@@ -75,7 +75,7 @@ Hitting "OK" opens a new sheet in the Excel workbook with the following results:
 <image src = "https://github.com/OpenNewsLabs/one-regression-six-ways/blob/master/Excel/results.png?raw=true"/>
 File saved on [github](https://github.com/OpenNewsLabs/one-regression-six-ways/blob/master/Excel/results.xlsx).
 
-Summary Output gives me the regression equation starting from row 16, plus some regression stats in the first few rows.
+Summary Output gives me the regression equation starting from "Intercept", plus some regression stats in the first few rows.
 
 Residual Output gives me the fitted values along with the residuals and standardized residuals, in order of observation number. 
 
