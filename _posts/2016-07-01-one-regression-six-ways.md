@@ -4,6 +4,15 @@ title:  '6 ways to run a "simple" regression'
 date:   2016-07-01 00:00:00 -0700
 categories: jekyll update
 ---
+<a id = "Top"></a>
+**One regression, six ways:**
+
+1. [Excel](#Excel)
+2. [R](#R)
+3. [Stata](#Stata)
+4. [SAS](#SAS)
+5. [PSPP](#PSPP)
+6. [Python (statsmodels)](#Python)
 
 **Are wealthier countries healthier countries?**
 
@@ -57,8 +66,9 @@ Fredrik deBoer has a [very accessible post](http://fredrikdeboer.com/2015/02/28/
 **4. If it's not done automatically, I'll calculate the fitted values and residuals and put them into a dataset.**
 
 
-
-**> Excel**
+<a id = "Excel"></a>
+**> Excel** <br>
+[*back to list of 6 tools*](#Top)
 
 
 Likely the most well-known data analysis program. 
@@ -93,9 +103,9 @@ More on interpreting Excel output [here](http://cameron.econ.ucdavis.edu/excel/e
 
 ***Verdict***: a bit cumbersome to point-and-click rather than write code, but not bad for a quick regression if the dataset isn't too big. Default diagnostic plots aren't great. It's nice that Excel generates fitted values and residuals automatically.
 
-
-
-**> R**
+<a id = "R"></a>
+**> R**<br>
+[*back to list of 6 tools*](#Top)
 
 [R](https://www.r-project.org/) is an open-source programming language designed for stats and data analysis. 
 
@@ -170,8 +180,9 @@ More about different ways of standardizing residuals [here](http://stats.stackex
 
 ***Verdict***: Regression is the type of stuff that R was built for, so it's great. The diagnostic plots are very helpful. Extracting the fitted values and residuals was a bit tricky for me as it involved figuring out the attributes of the `reg` object. 
 
-
-**> Stata**
+<a id = "Stata"></a>
+**> Stata**<br>
+[*back to list of 6 tools*](#Top)
 
 [Stata](http://www.stata.com/) is another statistical software program. It's not open-source like R, so you have to pay for a license.
 
@@ -242,7 +253,9 @@ More on interpreting Stata's regression output [here](http://www.ats.ucla.edu/st
 
 ***Verdict***: Stata easily runs regressions. It's not as difficult as R to figure out, but one downside is it costs $$. It also requires you to add the fitted values and residuals to the dataset before plotting diagnostics, which could be good or bad depending on your preference and what you want to do. Still, it would be great to get a set of diagnostic plots with one command, rather than having to generate each separately. 
 
-**> SAS**
+<a id = "SAS"></a>
+**> SAS**<br>
+[*back to list of 6 tools*](#Top)
 
 [SAS](http://www.sas.com/) is another statistical software program that requires a paid license. I don't have much experience with it, but I think businesses and government agencies use it quite a lot.
 
@@ -289,7 +302,9 @@ There are a *lot* of plots. More on those [here](https://support.sas.com/documen
 
 ***Verdict***: SAS is nice because it automatically generates a summary sheet of the output and diagnostic plots when the regression is run. So it doesn't require much effort to get the results. One downside, as with Stata, is $$. Plus it ran a bit slower for me, probably because it automatically generated all the graphs in pop-up windows. Labeling of outlier and influential observations would be nice.
 
-**> PSPP**
+<a id = "PSPP"></a>
+**> PSPP**<br>
+[*back to list of 6 tools*](#Top)
 
 [PSPP](https://www.gnu.org/software/pspp/) is an open-source data analysis program, a sort of free version of [SPSS](http://www.ibm.com/analytics/us/en/technology/spss/). 
 
@@ -356,7 +371,9 @@ I can't do much else with this output. I could export the results to as CSV file
 
 ***Verdict***: PSPP is not my favorite program, since it provides regression output without regression diagnostics. It's generally not a good idea to blindly run regressions, so I hope the later versions have added more diagnostic capabilities, including plotting.
 
-**> Python (statsmodels)**
+<a id = "Python"></a>
+**> Python (statsmodels)**<br>
+[*back to list of 6 tools*](#Top)
 
 [Python](https://www.python.org/) is an open-source programming language that's used for lots of things, not just stats and data analysis. Because it's not designed for the primary purpose of statistical and data analysis, it takes a bit of effort to get it set up to run a regression.
 
