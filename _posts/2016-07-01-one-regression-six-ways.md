@@ -5,7 +5,8 @@ date:   2016-07-01 00:00:00 -0700
 categories: jekyll update
 ---
 <a id = "Top"></a>
-**One regression, six ways:**
+**One regression, six ways:** <br>
+*(click to skip to section)*
 
 1. [Excel](#Excel)
 2. [R](#R)
@@ -14,7 +15,7 @@ categories: jekyll update
 5. [PSPP](#PSPP)
 6. [Python (statsmodels)](#Python)
 
-**Are wealthier countries healthier countries?**
+**The question: Are wealthier countries healthier countries?**
 
 This graph of income and life expectancy from the [Gapminder Foundation](https://www.gapminder.org/data/) would suggest they are:
 
@@ -65,6 +66,7 @@ Fredrik deBoer has a [very accessible post](http://fredrikdeboer.com/2015/02/28/
 
 **4. If it's not done automatically, I'll calculate the fitted values and residuals and put them into a dataset.**
 
+Here goes ... 
 
 <a id = "Excel"></a>
 **> Excel** <br>
@@ -91,11 +93,11 @@ Residual Output gives me the fitted values along with the residuals and standard
 
 Probability Output gives me the quantiles of health. 
 
-These Residual Output and Probability Output contain the underlying data behind the second and third graphs -- all three were automatically generated with the results sheet:
+The Residual Output and Probability Output contain the underlying data behind the second and third graphs -- all three were automatically generated in the results sheet:
 <image src = "https://github.com/OpenNewsLabs/one-regression-six-ways/blob/master/Excel/regplots.png?raw=true" width = "450px" height = "450px"/>
 The first graph is a scatterplot with the fitted values of health overlaid on the actual values, which is helpful to visualize the trend. 
 
-The second is a normal probability plot, also known as a normal q-q plot. A straight line means the data in the y-axis are normally distributed. I'm not sure why Excel by default plots health on the y-axis rather than the residuals. This a normal q-q plot of health shows me that health is normally distributed (the dots fall more or less on a straight line), but what I really want to know whether the residuals of the equation are normally distributed (normality of errors assumption).
+The second is a normal probability plot, also known as a normal q-q plot. A straight line means the data in the y-axis are normally distributed. I'm not sure why Excel by default plots health on the y-axis rather than the residuals. This a normal q-q plot of health shows me that health is normally distributed (the dots fall more or less on a straight line), but what I really want to know is whether the *residuals* of the equation are normally distributed (normality of errors assumption).
 
 The third is a scatterplot of residuals vs. log income. The dots look random, with an average of about zero. This appears to fit the constant variance of residuals condition - e.g., the errors don't vary across the range of log income values. It would be better to plot residuals vs. fitted values, though it doesn't matter since we only have one x-variable (log income). 
 
@@ -146,7 +148,7 @@ I can get four default diagnostic plots using ```plot(reg)```:
 
 On each plot, R helpfully labels the points that stand out with their observation number. 54, for example, is Equatorial Guinea, whose life expectancy is 60.63 in the data. The linear equation would have predicted its life expectancy to be 77.92 from its income level. The residual is the difference between the two, or approximately -17, which I can see on the residuals vs. fitted plot. 
 
-The scale-location plot provides similar information, though the y-axis is scaled such that all the numbers are positive. R overlays a loess line on both the resids vs. fitted and scale-location plots - these lines are flat, meaning the residuals satisfy the assumption of constant variance.
+The scale-location plot provides similar information, though the y-axis is scaled such that all the numbers are positive. R overlays a loess line on both the resids vs. fitted and scale-location plots - these lines are mostly flat, meaning the residuals satisfy the assumption of constant variance.
 
 The normal q-q plot shows the standardized residuals on the y-axis. R also draws the 45-degree line, which the points would fall on if the residuals were perfectly normally distributed. This is more helpful than Excel's and give me more information; namely, that there are several residuals that are lower than they would be if they were normally distributed. These are mostly driven by three observations; not something to worry about too much, since the rest fit on the line pretty well, but good to keep in mind.
 
@@ -259,7 +261,7 @@ More on interpreting Stata's regression output [here](http://www.ats.ucla.edu/st
 
 [SAS](http://www.sas.com/) is another statistical software program that requires a paid license. I don't have much experience with it, but I think businesses and government agencies use it quite a lot.
 
-One major thing I noticed about coding is SAS is that capitalization doesn't matter (is there a set convention for when to capitalize?). Also, SAS uses semicolon delimiters by default, and I had to specify ```RUN;``` in order to get the output. 
+One major thing I noticed about coding in SAS is that capitalization doesn't matter (is there a set convention for when to capitalize?). Also, SAS uses semicolon delimiters by default, and I had to specify ```RUN;``` in order to get the output. 
 
 ```
 * read data;
@@ -308,7 +310,7 @@ There are a *lot* of plots. More on those [here](https://support.sas.com/documen
 
 [PSPP](https://www.gnu.org/software/pspp/) is an open-source data analysis program, a sort of free version of [SPSS](http://www.ibm.com/analytics/us/en/technology/spss/). 
 
-I couldn't get the most recent Ubuntu version to install, so I'm using version 0.7.9. Because of this, I could only run the regression without any of the diagnostic plots. Like SAS, PSPP doesn't care about capitalization. 
+I couldn't get the most recent version to install, so I'm using version 0.7.9. Because of this, I could only run the regression without any of the diagnostic plots. Like SAS, PSPP doesn't care about capitalization. 
 
 ```
 * read data 
@@ -367,7 +369,7 @@ Adding ```SAVE pred resid.``` at the end of the ```REGRESSION``` command adds th
 
 I didn't see a command to calculate standardized residuals. 
 
-I can't do much else with this output. I could export the results to as CSV file using ```SAVE TRANSLATE```, but this doesn't save the variable names, which is annoying.
+I can't do much else with this output. I could export the results to as CSV file using ```SAVE TRANSLATE```, but this command doesn't save the variable names, which is annoying.
 
 ***Verdict***: PSPP is not my favorite program, since it provides regression output without regression diagnostics. It's generally not a good idea to blindly run regressions, so I hope the later versions have added more diagnostic capabilities, including plotting.
 
@@ -375,7 +377,7 @@ I can't do much else with this output. I could export the results to as CSV file
 **> Python (statsmodels)**<br>
 [*back to list of 6 tools*](#Top)
 
-[Python](https://www.python.org/) is an open-source programming language that's used for lots of things, not just stats and data analysis. Because it's not designed for the primary purpose of statistical and data analysis, it takes a bit of effort to get it set up to run a regression.
+[Python](https://www.python.org/) is an open-source programming language that's used for lots of things, not just stats and data analysis. Because it's not designed for the primary purpose of numerical analysis, it takes a bit of effort to get it set up to run a regression.
 
 I had to install [some Python modules](https://github.com/OpenNewsLabs/one-regression-six-ways/blob/master/Python/requirements.txt) on my machine before I could get started. Again, because Python's base functionality is *not* stats, it relies on user-written modules (kind of like Excel's add-ins) for things like regression. The main one I'm using is called [statsmodels](http://statsmodels.sourceforge.net/), inspired by Data School's [tutorial](https://github.com/justmarkham/DAT4/blob/master/notebooks/08_linear_regression.ipynb). 
 
@@ -432,7 +434,7 @@ More on interpreting the output [here](https://www.datarobot.com/blog/ordinary-l
 
 Python is intimidating because it requires many packages and modules to be installed even before the analysis proceeds. But once I got through the set-up process, running the regression itself wasn't too bad. 
 
-Getting regression diagnostics was a different story, and I couldn't find a comprehensive tutorial on this. Because Python's statsmodels doesn't produce any graphs by default, I had to create a dataset with the residuals and fitted values:
+Getting regression diagnostics was a different story, and I couldn't find a comprehensive tutorial on this. Because Python's statsmodels doesn't produce any graphs by default, I had to first create a dataset with the residuals and fitted values:
 
 ```
 results = pd.DataFrame({'country': d.country,
@@ -458,13 +460,13 @@ Python uses zero-indexing, meaning that the first observation, Afghanistan, is r
  
 The standardized residuals specified by `resid_pearson` are *not* the same as those in any of the other programs. [Here's](http://stats.stackexchange.com/questions/22653/raw-residuals-versus-standardised-residuals-versus-studentised-residuals-what) an explanation of the difference. I'm not too knowledgeable of standardizing residuals, but  it would be great if statsmodels automatically calculated standardized or studentized residuals.
 
-Since statsmodels doesn't generate any graphics automatically, I tried to replicate R's regression diagnostic plots. This required many lines of code, especially the residuals vs. fitted values plot. This should be a much easier graph to generate, since it's one of the most common in regression analysis. 
+Since which graphs to plot was entirely up to me, I tried to replicate R's regression diagnostic plots. This required many lines of code, especially the residuals vs. fitted values plot. This should be a much easier graph to generate, since it's one of the most common in regression analysis. 
 
 <img src = "https://github.com/OpenNewsLabs/one-regression-six-ways/blob/master/Python/regplots.png?raw=true" width = "550px"/>
 
 Code on [github](https://github.com/OpenNewsLabs/one-regression-six-ways/blob/master/Python/statsmodels_method.py).  
 
-The observation numbers on the Influence Plot are one lower than the ones in R, because of the zero-indexing. So Equatorial Guinea is observation 54 in R, but 53 is Python.
+The observation numbers on the Influence Plot are one lower than the ones in R, because of the zero-indexing. So Equatorial Guinea is observation 54 in R, but 53 in Python.
 
 ***Verdict***: Python requires an extensive setting-up that makes it harder to get the hang of at first. That said, statsmodels does a good job of running a regression and has a lot of features. Regression diagnostics requires a lot more effort in statsmodels than I would like. It would be better if there were a function to automatically generate a few diagnostic plots. 
 <br><br>
