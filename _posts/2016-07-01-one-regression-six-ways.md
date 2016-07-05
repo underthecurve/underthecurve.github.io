@@ -188,7 +188,7 @@ More about different ways of standardizing residuals [here](http://stats.stackex
 
 [Stata](http://www.stata.com/) is another statistical software program. It's not open-source like R, so you have to pay for a license.
 
-Running the regression fairly straightforward, using the command ```regress```:
+Running the regression is fairly straightforward, using the command ```regress```:
 
 ```
 * Read in data
