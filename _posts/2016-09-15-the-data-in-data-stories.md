@@ -28,7 +28,7 @@ Also in this category are datasets that merge information from several sources i
 It's not as uncommon as you'd think. Sometimes others have done the "creating the dataset" part for you. Buzzfeed did a [story](https://www.buzzfeed.com/peteraldhous/race-and-police-shootings
 ) last year on race and police killings that used a portion of The Guardian and the Washington Post's databases. Other times, stories are written that take an angle on publicly released datasets, like [this one](https://fivethirtyeight.com/features/dont-blame-a-skills-gap-for-lack-of-hiring-in-manufacturing/) from FiveThirtyEight, which used the latest jobs report release from the Bureau of Labor Statistics.
 
-These categories aren't exhaustive or exclusive to journalism, but I find them helpful for getting into a data mindset.
+These categories aren't exhaustive or mutually exclusive, nor are they only applicable to news stories. For me, they're a helpful starting point for getting into a data mindset.
 
 Of course, it's not just about the data; journalism is all about finding and telling the story. A lot of the time, that's the trickiest part. I'll write about that soon - stay tuned!
 
