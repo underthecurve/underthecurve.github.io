@@ -5,7 +5,7 @@ date:   2016-09-15 00:00:00 -0700
 categories: jekyll update
 ---
 
-It's often hard for people to understand what exactly I do. When I say that I'm a "data journalist" and that I "tell stories using data", I usually get a blank stare or a follow-up question along the lines of, "what types of data?" or "what do you mean by 'tell stories'?" 
+It's often hard for people to understand what exactly I do. When I say that I'm a "data journalist" and that I "tell stories using data", I usually get a blank stare or follow-up questions along the lines of, "what types of data?" or "what do you mean by 'tell stories'?" 
 
 Here's my attempt at an answer to the first question.
 
