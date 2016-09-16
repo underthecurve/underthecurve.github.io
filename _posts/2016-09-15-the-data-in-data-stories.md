@@ -7,7 +7,7 @@ categories: jekyll update
 
 It's often hard for people to understand what exactly I do. When I say that I'm a "data journalist" and that I "tell stories using data", I usually get a blank stare or follow-up questions along the lines of, "what types of data?" or "what do you mean by 'tell stories'?" 
 
-Here's my attempt at an answer to the first question.
+Here's my attempt to answer the first question, "What types of data?" 
 
 I tend to group "data" into four broad categories:
 
@@ -25,8 +25,10 @@ This category could easily overlap with the previous one, since raw data is rare
 Also in this category are datasets that merge information from several sources in new, interesting ways. For example, Bloomberg's piece, ["This is How Fast America Changes Its Mind"](http://www.bloomberg.com/graphics/2015-pace-of-social-change/), determined how long it took for state (& in the case of the first five issues, federal) legislation to allow interracial marriage, prohibition, women’s suffrage, abortion, same-sex marriage, and recreational marijuana. Each issue used information from one or two different sources.
 
 **Data that is out there, waiting for you to analyze** <br>
-It's not as uncommon as you'd think. Sometimes others have done the "creating the dataset" part for you. Buzzfeed did a [story](https://www.buzzfeed.com/peteraldhous/race-and-police-shootings
-) last year on race and police killings that used a portion of The Guardian and the Washington Post's databases. Other times, stories are written that take an angle on publicly released datasets, like [this one](https://fivethirtyeight.com/features/dont-blame-a-skills-gap-for-lack-of-hiring-in-manufacturing/) from FiveThirtyEight, which used the latest jobs report release from the Bureau of Labor Statistics.
+It's not as uncommon as you'd think. Sometimes, news stories taken an angle on publicly released datasets, like [this one](https://fivethirtyeight.com/features/dont-blame-a-skills-gap-for-lack-of-hiring-in-manufacturing/) from FiveThirtyEight, which used the latest jobs report from the Bureau of Labor Statistics. Other times, somebody else has done the "creating the dataset" part for you. Buzzfeed did a [story](https://www.buzzfeed.com/peteraldhous/race-and-police-shootings
+) last year on race and police killings that used a portion of The Guardian and the Washington Post's databases. 
+
+And if you're lucky, someone has done the "cleaning & wrangling" part, too. The [California Civic Data Coalition](http://www.californiacivicdata.org/2016/09/15/website-launch/), whose new site launched today, is a great example: this partnership of journalists and computer programers has cleaned and documented more than 70,000 rows of California's very messy campaign finance and lobbying data. This information is ripe for analysis.
 
 These categories aren't exhaustive or mutually exclusive, nor are they only applicable to news stories. For me, they're a helpful starting point for getting into a data mindset.
 
