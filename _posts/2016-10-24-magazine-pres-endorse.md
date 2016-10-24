@@ -99,10 +99,10 @@ Began endorsing with Kerry in 2004 and has done so in an article entitled "The C
 [**2016**](http://www.newyorker.com/magazine/2016/10/31/the-new-yorker-endorses-hillary-clinton) (Clinton, Dem.): "The election of Hillary Clinton is an event that we will welcome for its immense historical import, and greet with indescribable relief."
 
 
-[**2012**](http://www.newyorker.com/magazine/2012/10/29/the-choice-8) (Kerry, Dem.): "Obama’s America—one that progresses, however falteringly, toward social justice, tolerance, and equality—represents the future that this country deserves."
+[**2012**](http://www.newyorker.com/magazine/2012/10/29/the-choice-8) (Obama, Dem.): "Obama’s America—one that progresses, however falteringly, toward social justice, tolerance, and equality—represents the future that this country deserves."
 
 
-[**2008**](http://www.newyorker.com/magazine/2004/11/01/the-choice-5) (Kerry, Dem.): "... America needs both uplift and realism, both change and steadiness. It needs a leader temperamentally, intellectually, and emotionally attuned to the complexities of our troubled globe. That leader’s name is Barack Obama."
+[**2008**](http://www.newyorker.com/magazine/2004/11/01/the-choice-5) (Obama, Dem.): "... America needs both uplift and realism, both change and steadiness. It needs a leader temperamentally, intellectually, and emotionally attuned to the complexities of our troubled globe. That leader’s name is Barack Obama."
 
 
 [**2004**](http://www.newyorker.com/magazine/2004/11/01/the-choice-5) (Kerry, Dem.): "In every crucial area of concern to Americans ... Kerry offers a clear, corrective alternative to Bush’s curious blend of smugness, radicalism, and demagoguery."
