@@ -1,18 +1,27 @@
 ---
 layout: post
-title:  'test'
-
+title:  'Which magazines endorse presidential candidates?'
+date:   2016-10-24 00:00:00 -0700
 categories: jekyll update
-
 ---
 
-**Which magazines have endorsed presidential candidates?**
+The New Yorker [is endorsing](http://www.newyorker.com/magazine/2016/10/31/the-new-yorker-endorses-hillary-clinton) Hillary Clinton for President in its October issue. A Democratic endorsement from a historically liberal magazine is not too newsworthy, but it got me wondering: **Which magazines have endorsed presidential candidates (and how often)?** 
 
+Unlike newspaper editorial boards, which I've [written about](https://underthecurve.github.io/jekyll/update/2016/06/07/newspaper-editorial-boards.html) in the past, magazine editors generally do oversee a lot of published content. Perhaps for this reason, it is not common practice for magazines to endorse candidates.
 
+But some magazines have made endorsements over the years. And several others have voiced their opinions for the first time this year. Some of them are quite colorful.
+
+Noah Veltman's [tally of newspaper endorsements](http://noahveltman.com/endorsements/) inspired me to make my own graph to track magazine endorsements:
 
 ![image](/images/magazines.svg) 
 
 <a id = "Top"></a>
+
+Where possible, I've included links to and interesting excerpts from the actual articles. Click on the magazine title to see for yourself, or explore the raw data [here](https://docs.google.com/spreadsheets/d/1nN05u7IH2k_qe7YnoJ0HMqDpO107EGZfSEvXnpzLj9c/edit?usp=sharing). This is not an exhaustive list -- just something I cobbled together -- so feel free to [reach out](https://twitter.com/christinezhang) if you think I'm missing something!
+
+
+*\*  first-time endorsers in 2016*
+
 
 **News/Commentary** <br>
 [The Economist](#Economist) \| [The Nation](#Nation) \| [The New Yorker](#NewYorker) \| [The New Republic](#TNR) \| [Foreign Policy\*](#FP) \| [The Atlantic](#Atlantic)
@@ -197,11 +206,11 @@ Unsure whether Nature officially endorsed candidates prior to 2008.
 **> Glamour**<br>
 [*back to list of titles*](#Top)
 
-Editor-in-chief Cindi Leieve wrote an note in support of Hillary Clinton (her first endorsement) on October 6, 2016 and encouraging young women to vote. I couldn't find the actual 2000 article for Gore. 
+Editor-in-chief Cindi Leive wrote an note in support of Hillary Clinton (her first endorsement) on October 6, 2016 and encouraging young women to vote. I couldn't find the actual 2000 article for Gore. 
 
 [**2016**](http://www.glamour.com/story/in-this-election-im-with-her) (Clinton, Dem.): "She has not waged a perfect campaign, and as you’ll see in our [interview](http://www.glamour.com/story/hillary-clinton-answers-reader-questions), many of you have real, valid questions for her about trust and policy. But Clinton has survived a brutal hazing process to emerge as a qualified candidate with a true commitment to women—which, by the way, has less to do with the fact that she is a woman and more to do with how she sees us."
 
-**2000** (Gore, Dem.)[source](https://www2.gwu.edu/~action/natendorse5.html)
+**2000** (Gore, Dem.): [source](https://www2.gwu.edu/~action/natendorse5.html)
 
 <a id = "Latina"></a>
 **> Latina\***<br>
@@ -232,9 +241,9 @@ First time endorsement. Officially endorsed Hillary Clinton on June 21, 2016: "W
 **> Loveland Magazine\***<br>
 [*back to list of titles*](#Top)
 
-The Ohio-based magazine's editor David Miller was inspired by The Atlantic's Clinton endorsement to publish an anti-endorsement -- its first -- against  Trump on October 10, 2016.
+The Ohio-based magazine's editor, David Miller, was inspired by The Atlantic's Clinton endorsement to publish an anti-endorsement -- its first -- against  Trump on October 10, 2016.
 
-[**2016**](http://lovelandmagazine.com/we-endorse-this-endorsement-against-donald-trump/) (anti-Trump): "I don’t believe newspapers should tell people who or what to vote for .... However, when It came across my desktop that The Atlantic was making only their third endorsement of a presidential candidate since 1860, I decided to suspend my self–righteousness. The Atlantic says what I want to say about Donald Trump, but with eloquence that I cannot muster."
+[**2016**](http://lovelandmagazine.com/we-endorse-this-endorsement-against-donald-trump/) (anti-Trump): "I don’t believe newspapers should tell people who or what to vote for .... However, when it came across my desktop that The Atlantic was making only their third endorsement of a presidential candidate since 1860, I decided to suspend my self–righteousness. The Atlantic says what I want to say about Donald Trump, but with eloquence that I cannot muster."
 
 <a id = "Reader"></a>
 **> The Reader\***<br>
