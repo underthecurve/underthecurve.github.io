@@ -5,6 +5,8 @@ date:   2016-10-24 00:00:00 -0700
 categories: jekyll update
 ---
 
+cross-posted to my data viz blog, [Plots with Christine](https://plotswithchristine.wordpress.com/2016/11/02/which-magazines-endorse-presidential-candidates/).
+
 The New Yorker [is endorsing](http://www.newyorker.com/magazine/2016/10/31/the-new-yorker-endorses-hillary-clinton) Hillary Clinton for President in its October issue. A Democratic endorsement from a historically liberal magazine is not too newsworthy, but it got me wondering: **Which magazines have endorsed presidential candidates (and how often)?** 
 
 Unlike newspaper editorial boards, which I've [written about](https://underthecurve.github.io/jekyll/update/2016/06/07/newspaper-editorial-boards.html) in the past, magazine editors generally do oversee a lot of published content. Perhaps for this reason, it is not common practice for magazines to endorse candidates.
