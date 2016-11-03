@@ -5,7 +5,7 @@ date:   2016-11-03 00:00:00 -0700
 categories: jekyll update
 ---
 
-*cross-posted to my data viz blog, [Plots with Christine](https://plotswithchristine.wordpress.com/2016/11/02/which-magazines-endorse-presidential-candidates/).*
+*cross-posted to my data viz blog, [Plots with Christine](https://plotswithchristine.wordpress.com/2016/11/03/which-foreign-newspapers-endorse-u-s-presidential-candidates/).*
 
 Today, The Economist [cast its hypothetical vote for Hillary Clinton](http://www.economist.com/news/leaders/21709540-why-we-would-cast-our-hypothetical-vote-hillary-clinton-americas-best-hope?zid=309&ah=80dcf288b8561b012f603b9fd9577f0e) in the U.S. presidential election. This follows its [anti-endorsement of Trump](http://www.economist.com/news/leaders/21698251-donald-trumps-victory-disaster-republicans-and-america-trumpu2019s-triumph) in May and comes a couple of days after a Clinton endorsement from another international newspaper, [The Financial Times](https://www.ft.com/content/f61b93c8-9f5a-11e6-891e-abe238dee8e2). Much like The New Yorker's Clinton endorsement got me thinking about magazine presidential endorsements, these articles piqued my curiousity: **When do foreign newspapers endorse U.S. presidential candidates?**
 
