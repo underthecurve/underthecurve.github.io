@@ -58,6 +58,8 @@ ___
 
 Has endorsed presidential candidates for the U.S. (since 1980), UK and others in the Leaders section. [This article](http://www.economist.com/blogs/democracyinamerica/2012/11/us-presidential-endorsements) provides a summary of U.S. presidential endorsements from 1980 through 2012.
 
+[**2016** (Clinton)](http://www.economist.com/news/leaders/21709540-why-we-would-cast-our-hypothetical-vote-hillary-clinton-americas-best-hope?zid=309&ah=80dcf288b8561b012f603b9fd9577f0e): " ... our vote goes to both Mrs Clinton and her party. Partly because she is not Mr Trump, but also in the hope she can show that ordinary politics works for ordinary people—the sort of renewal that American democracy requires."
+
 [**2016** (anti-Trump)](http://www.economist.com/news/leaders/21698251-donald-trumps-victory-disaster-republicans-and-america-trumpu2019s-triumph): "Donald Trump’s victory is a disaster for Republicans and for America."
 
 [**2012** (Obama, Dem.)](http://www.economist.com/news/leaders/21565623-america-could-do-better-barack-obama-sadly-mitt-romney-does-not-fit-bill-which-one): "America could do better than Barack Obama; sadly, Mitt Romney does not fit the bill."
