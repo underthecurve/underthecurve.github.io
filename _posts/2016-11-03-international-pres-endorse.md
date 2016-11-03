@@ -11,9 +11,9 @@ Today, The Economist [cast its hypothetical vote for Hillary Clinton](http://www
 
 It might make sense for The Economist and the FT to weigh in on U.S. elections, as much of their circulation comes from the U.S. or Americans living abroad. For more national newspapers, opining on American elections might seem strange, so I tried to document all the cases in which it's occurred. Here's what I found:
 
-![image](/images/international.svg) 
+![image](/images/international.png) 
 
-As with my [magazine endorsements post](https://underthecurve.github.io/jekyll/update/2016/10/24/magazine-pres-endorse.html), I will add links to and interesting excerpts from the actual articles shortly. [Here's the raw data](https://docs.google.com/spreadsheets/d/1G_rv5FxFD2_eYAdanBi15YVwJq8K2UCWCzAV3HGQlDU/edit?usp=sharing), so feel free to [let me know](https://twitter.com/christinezhang)what's missing! 
+As with my [magazine endorsements post](https://underthecurve.github.io/jekyll/update/2016/10/24/magazine-pres-endorse.html), I will add links to and interesting excerpts from the actual articles shortly. [Here's the raw data](https://docs.google.com/spreadsheets/d/1G_rv5FxFD2_eYAdanBi15YVwJq8K2UCWCzAV3HGQlDU/edit?usp=sharing), so feel free to [let me know](https://twitter.com/christinezhang) what's missing! 
 
 
 
