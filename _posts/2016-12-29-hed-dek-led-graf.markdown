@@ -23,4 +23,6 @@ The **lede** is the opening paragraph (or two) of the story, meant to capture th
 
 The **nut graf** or **nutgraf** is the graf with the most "meat" in it. It usually comes after the lede. In an academic essay, this would be akin to the thesis statement. In the Washington Post article, this would be the third graf, right after a quote from the 26-year-old about how she views intimacy. This graf describes a recent study that finds a pattern of sexual inactivity among younger millennials (those born in the 1990s) versus the previous generation.
 
-Why the weird spelling? [This article from O'Reilly publishing](http://radar.oreilly.com/2010/11/heds-deks-and-ledes.html) says that "these intentional misspellings will help distinguish an editor's commentary from a writers prose," which makes some sense. Or maybe it was to distinguish, say, a "lede" from the lead used in the printing press, or a story's "nutgraf" from the bar graph included in the text. Whatever the reason, the indiosyncratic spelling is here to stay.
+Why the weird spelling for these terms? 
+
+[This article from O'Reilly publishing](http://radar.oreilly.com/2010/11/heds-deks-and-ledes.html) says that "these intentional misspellings will help distinguish an editor's commentary from a writers prose," which makes some sense. Or maybe it was to distinguish, say, a "lede" from the lead used in the printing press, or a story's "nutgraf" from the bar graph included in the text. Whatever the reason, the indiosyncratic spelling is here to stay.
