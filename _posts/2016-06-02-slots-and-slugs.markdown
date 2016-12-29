@@ -9,7 +9,7 @@ Journalists pride themselves on avoiding jargon in their writing, but in the new
 
 Case in point: backfielders, slots, rims, and slugs ... these are just some of the terms I heard in my first few weeks of working at the Times. 
 
-Here's what these words me (to me). Let's start with a suuuuper simplified workflow of the editing process for a story:
+Here's what these words mean (to me). Let's start with a suuuuper simplified workflow of the editing process for a story:
 
 1. The **reporter** writes a story.
 
