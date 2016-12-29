@@ -13,9 +13,11 @@ The **hed** is the headline of the story. That's easy enough.
 
 The **dek**, also known as the **subhed**, is a short description, between the hed and the text of the article, that summarizes what it is about. [Apparently](https://www.quora.com/In-Journalism-where-did-the-term-dek-come-from) it comes from the old Dutch word "dek," meaning "to cover" (not sure why that makes sense, but okay). 
 
-Nowadays, in online news, the dek contains terminology chosen for Search Engine Optimization (SEO) purposes. The sentence in grey in [this article about Debbie Reynolds](http://www.latimes.com/entertainment/la-me-debbie-reynolds-20161228-story.html), a link that appeared on our homepage, is the dek:
+Nowadays, in online news, the dek contains terminology chosen for Search Engine Optimization (SEO) purposes. Yesterday, our homepage featured [this article paying tribute to Debbie Reynolds](http://www.latimes.com/entertainment/la-me-debbie-reynolds-20161228-story.html). The dek is the sentence in grey below the hed:
 
 <img src = "/images/debbiereynolds.png" width="400" height="200"/> 
+
+Note this is sometimes but not always the first couple of sentences of the actual article (in this case, it is not).
 
 The **lede** is the opening paragraph (or two) of the story, meant to capture the reader's attention. In an academic essay, this would be akin to the introduction. In [this Washington Post article about millennials avoiding sex](https://www.washingtonpost.com/local/social-issues/there-isnt-really-anything-magical-about-it-why-more-millennials-are-putting-off-sex/2016/08/02/e7b73d6e-37f4-11e6-8f7c-d4c723a2becb_story.html?utm_term=.a77176425a7a), the lede is the first paragraph (or what journalists would call the first **graf**): an anecdote about a 26-year-old who hasn't had sex in a while.
 
