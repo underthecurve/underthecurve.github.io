@@ -18,7 +18,7 @@ Special thanks to Heather Feldmann Henry of **Investigative  Reporters and Edito
 
 Here they are in list form. You can access the entire Dropbox folder [here](https://www.dropbox.com/sh/yi1y0i6ka24498h/AAD_Oc8rbYTKXGKnqJ69z8c4a?dl=0).
 
-[**1993 — Computing: The News Frontier. Putting Bytes Into Your Bark**](https://www.dropbox.com/home/NICAR%20conference%20programs?preview=1993.pdf)<br>
+[**1993 — Computing: The News Frontier. Putting Bytes Into Your Bark**](https://https://www.dropbox.com/s/ep6xngcms51r503/1993.pdf?dl=0)<br>
 [**1994 — C.A.R. Trek: Computer-Assisted Reporting in the 90s**](https://www.dropbox.com/home/NICAR%20conference%20programs?preview=1994.pdf)<br>
 [**1995 — CAR Rock**](https://www.dropbox.com/home/NICAR%20conference%20programs?preview=1995.pdf)<br>
 [**1997 — NashCAR**](https://www.dropbox.com/home/NICAR%20conference%20programs?preview=1997.pdf)<br>
@@ -37,11 +37,12 @@ Here they are in list form. You can access the entire Dropbox folder [here](http
 [**2011 — CAR Conference Raleigh**](https://www.dropbox.com/home/NICAR%20conference%20programs?preview=2011.pdf)<br>
 [**2012 — CAR Conference St. Louis**](https://www.dropbox.com/home/NICAR%20conference%20programs?preview=2012.pdf)<br>
 [**2013 — CAR Louisville**](https://www.dropbox.com/home/NICAR%20conference%20programs?preview=2013.pdf)<br>
-[**2014 — CAR Baltimore**](https://www.dropbox.com/home/NICAR%20conference%20programs?preview=2014.pdf)<br>
+[**2014 — CAR Baltimore**](https://www.dropbox.com/s/ob1lgfb6ccra8zk/2014.pdf?dl=0)<br>
 [**2015 — CAR Conference Atlanta**](https://www.dropbox.com/home/NICAR%20conference%20programs?preview=2015.pdf)<br>
 [**2016 — CAR Conference Denver**](https://www.dropbox.com/home/NICAR%20conference%20programs?preview=2016.pdf)<br>
 
 And are the conference covers one-by-one, in all their pun-filled glory (my fave is the "Boston CAR Party"). Click on the image to go to the Dropbox link.
+
 <br>
 *\* Yes, that's a [Harry Potter](https://www.pottermore.com/collection/quidditch-through-ages-by-jkr) reference.
 <br><br>
