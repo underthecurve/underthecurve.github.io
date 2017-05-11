@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CAR Through the Ages
-permalink: /nicarprograms/
+permalink: /nicar/
 ---
 
 ## NICAR Conference Programs
