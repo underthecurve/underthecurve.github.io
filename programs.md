@@ -111,31 +111,31 @@ And are the conference covers one-by-one, in all their pun-filled glory (my fave
 
 #### **2010 — CAR Conference Phoenix**
 
-[<img src = "/images/2010.png" width="400" height="600"/>](https://www.dropbox.com/home/NICAR%20conference%20programs?preview=2010.pdf)
+[<img src = "/images/2010.png" width="400" height="600"/>](https://www.dropbox.com/s/v39k4ssp0cvamhg/2010.pdf?dl=0)
 
 #### **2011 — CAR Conference Raleigh**
 
-[<img src = "/images/2011.png" width="400" height="600"/>](https://www.dropbox.com/home/NICAR%20conference%20programs?preview=2011.pdf)
+[<img src = "/images/2011.png" width="400" height="600"/>](https://www.dropbox.com/s/t4saepa8virnreu/2011.pdf?dl=0)
 
 #### **2012 — CAR Conference St. Louis**
 
-[<img src = "/images/2012.png" width="400" height="600"/>](https://www.dropbox.com/home/NICAR%20conference%20programs?preview=2012.pdf)
+[<img src = "/images/2012.png" width="400" height="600"/>](https://www.dropbox.com/s/nn380ojpzgq9c7n/2012.pdf?dl=0)
 
 #### **2013 — CAR Louisville**
 
-[<img src = "/images/2013.png" width="400" height="600"/>](https://www.dropbox.com/home/NICAR%20conference%20programs?preview=2013.pdf)
+[<img src = "/images/2013.png" width="400" height="600"/>](https://www.dropbox.com/s/zaqx81vixox0nai/2013.pdf?dl=0)
 
 #### **2014 — CAR Baltimore**
 
-[<img src = "/images/2014.png" width="400" height="600"/>](https://www.dropbox.com/home/NICAR%20conference%20programs?preview=2014.pdf)
+[<img src = "/images/2014.png" width="400" height="600"/>](https://www.dropbox.com/s/ob1lgfb6ccra8zk/2014.pdf?dl=0)
 
 #### **2015 — CAR Conference Atlanta**
 
-[<img src = "/images/2015.png" width="400" height="600"/>](https://www.dropbox.com/home/NICAR%20conference%20programs?preview=2015.pdf)
+[<img src = "/images/2015.png" width="400" height="600"/>](https://www.dropbox.com/s/wlhm2qfn9hyok6g/2015.pdf?dl=0)
 
 #### **2016 — CAR Conference Denver**
 
-[<img src = "/images/2016.png" width="400" height="600"/>](https://www.dropbox.com/home/NICAR%20conference%20programs?preview=2016.pdf) 
+[<img src = "/images/2016.png" width="400" height="600"/>](https://www.dropbox.com/s/vz95whnamcmil2i/2016.pdf?dl=0) 
 
 
 
