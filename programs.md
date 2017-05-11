@@ -8,7 +8,7 @@ permalink: /nicar/
 
 I used to think that data journalism started in the 2000s. Then I dug further into the history of computer assisted reporting (CAR). News nerds have been congregating at a conference hosted by the **National Institute for Computer-Assisted Reporting** conference (affectionately known as **NICAR**) since the early 90s. 
 
-At NICAR 2017, I gave a lightning talk, [CAR Through the Ages](http://lightningtalks.ire.org/)* showcasing the recent history of CAR, as seen through past NICAR conference programs (+ slides [here](http://blog.chryswu.com/2017/03/02/nicar17-slides-links-tutorials-nicar17/#zap)).
+At NICAR 2017, I gave a lightning talk, [CAR Through the Ages](http://lightningtalks.ire.org/)*, showcasing the recent history of CAR, as seen through past NICAR conference programs (+ slides [here](http://blog.chryswu.com/2017/03/02/nicar17-slides-links-tutorials-nicar17/#zap)).
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/eUAibPrpTGg/0.jpg)](https://www.youtube.com/watch?v=eUAibPrpTGg&feature=youtu.be)
 
