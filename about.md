@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This site is a chronicle of my experiences in journalism, beginning with my time as a 2016 Knight-Mozilla OpenNews fellow, based at the L.A. Times Data Desk——
+This site is a chronicle of my experiences in journalism, beginning with my time as a 2016 Knight-Mozilla OpenNews fellow, based at the L.A. Times Data Desk.
 
 More about the fellowship: [OpenNews](https://opennews.org/what/fellowships/info/) 
 
