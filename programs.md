@@ -51,7 +51,7 @@ And are the conference covers one-by-one, in all their pun-filled glory (my fave
 <br>
 #### **1993 — Computing: The News Frontier. Putting Bytes Into Your Bark**
 
-[<img src = "/images/1993.png" width="400" height="600"/>](https://www.dropbox.com/s/ep6xngcms51r503/1993.pdf?dl=0) 
+[<img src = "/images/1993color.jpg" width="400" height="600"/>](https://www.dropbox.com/s/ep6xngcms51r503/1993.pdf?dl=0) 
 
 #### **1994 — C.A.R. Trek: Computer-Assisted Reporting in the 90s**
 
