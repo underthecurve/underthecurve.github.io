@@ -40,6 +40,10 @@ permalink: /bylines/
 [Sports metaphors and probability: Thoughts from a non-sports enthusiast](https://dataskeptic.com/blog/polling/2017/sports-metaphors-and-probability-thoughts-from-a-non-sports-enthusiast)
 
 [The Economist talks election forecasting](https://dataskeptic.com/blog/polling/2017/the-economist-talks-election-forecasting)
+
+[How America voted in 2016: datasets to help us figure it out](https://dataskeptic.com/blog/polling/2017/how-america-voted-in-2016-datasets-to-help-us-figure-it-out)
+
+[Everything I've learned about the USC/L.A. Times poll](https://dataskeptic.com/blog/polling/2017/everything-ive-learned-about-the-uscl.a.-times-poll)
 <br>
 <br>
 ### Ms. Magazine
