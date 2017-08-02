@@ -31,7 +31,7 @@ I asked a few friends (thanks, [@dhmontgomery](https://twitter.com/dhmontgomery)
 
 First, I had to get a Twitter API Key by creating an "application" (I called mine 'testing') [here](https://apps.twitter.com/app/new). 
 
-In R, the `twitteR` package makes it easy to get Twitter followers to a data table. After entering your API Key, access token etc. it just take a few lines of code:
+In R, the `twitteR` package makes it easy to get Twitter followers to a data table. After entering your API Key, access token etc. it just takes a few lines of code:
 
 ```
 setup_twitter_oauth(api_key, api_secret, access_token, access_secret)
