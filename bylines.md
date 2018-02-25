@@ -21,6 +21,11 @@ permalink: /bylines/
 [Finding books in the least expected places around L.A.](http://www.latimes.com/books/jacketcopy/la-ca-jc-books-everywhere-20170217-story.html)
 <br>
 <br>
+
+### Source
+
+[Peer Reviewing Our Data Stories](https://source.opennews.org/articles/peer-reviewing-our-data-stories/)
+
 ### Brookings
 
 [Six Things to Know About Child Survival Since 2000](https://www.brookings.edu/blog/up-front/2014/09/29/six-things-to-know-about-child-survival-since-2000/)
@@ -48,6 +53,7 @@ permalink: /bylines/
 [Everything I've learned about the USC/L.A. Times poll](https://dataskeptic.com/blog/polling/2017/everything-ive-learned-about-the-uscl.a.-times-poll)
 <br>
 <br>
+
 ### Ms. Magazine
 
 [Revisiting “What Women Really Want” in Politics](http://msmagazine.com/blog/2017/04/12/revisiting-women-really-want-politics/)
