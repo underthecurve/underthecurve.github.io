@@ -6,6 +6,8 @@ permalink: /bylines/
 
 ### Los Angeles Times
 
+[Huge increase in arrests of homeless in L.A. — but mostly for minor offenses](http://www.latimes.com/local/politics/la-me-homeless-arrests-20180204-story.html)
+
 [L.A.'s homelessness math is a bit off — totals are the same but increases are smaller](http://www.latimes.com/local/california/la-me-homeless-count-snap-story.html)
 
 [Cathy O'Neil, author of 'Weapons of Math Destruction,' on the dark side of big data](http://www.latimes.com/books/jacketcopy/la-ca-jc-cathy-oneil-20161229-story.html)
