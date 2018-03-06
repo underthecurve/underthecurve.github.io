@@ -41,7 +41,7 @@ Here they are in list form. You can access the entire Dropbox folder [here](http
 [**2015 — CAR Conference Atlanta**](https://www.dropbox.com/s/wlhm2qfn9hyok6g/2015.pdf?dl=0)<br>
 [**2016 — CAR Conference Denver**](https://www.dropbox.com/s/vz95whnamcmil2i/2016.pdf?dl=0)<br>
 
-And are the conference covers one-by-one, in all their pun-filled glory (my fave is the "Boston CAR Party"). Click on the image to go to the Dropbox link.
+And below are the conference covers one-by-one, in all their pun-filled glory (my fave is the "Boston CAR Party"). Click on the image to go to the Dropbox link.
 
 <br>
 *\* Yes, that's a [Harry Potter](https://www.pottermore.com/collection/quidditch-through-ages-by-jkr) reference.
