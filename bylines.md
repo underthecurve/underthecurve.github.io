@@ -24,8 +24,11 @@ permalink: /bylines/
 
 ### Source
 
-[Peer Reviewing Our Data Stories](https://source.opennews.org/articles/peer-reviewing-our-data-stories/)
+[How We Found New Patterns in LA’s Homeless Arrest Data](https://source.opennews.org/articles/how-we-found-new-patterns-la-homeless-arrest/)
 
+[Peer Reviewing Our Data Stories](https://source.opennews.org/articles/peer-reviewing-our-data-stories/)
+<br>
+<br>
 ### Brookings
 
 [Six Things to Know About Child Survival Since 2000](https://www.brookings.edu/blog/up-front/2014/09/29/six-things-to-know-about-child-survival-since-2000/)
