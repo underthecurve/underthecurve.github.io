@@ -46,7 +46,7 @@ And are the conference covers one-by-one, in all their pun-filled glory (my fave
 <br>
 *\* Yes, that's a [Harry Potter](https://www.pottermore.com/collection/quidditch-through-ages-by-jkr) reference.
 <br><br>
-\*\* There was no NICAR 1996, and the NICAR 2001 was rescheduled due to 9/11. [NICAR 2017](http://ire.org/conferences/nicar2017/) has entered the digital age, and no paper copies of the program were made.*
+\*\* There was no NICAR 1996, and the NICAR 2001 was rescheduled due to 9/11. [NICAR 2017](http://ire.org/conferences/nicar2017/) has entered the digital age, and no paper copies of the program were made. [NICAR 2018](https://ire.org/conferences/nicar18/) has gotten event fancier, with an [interactive conference guide](https://www.ire.org/conferences/nicar18/nicar18-guide/) as well as the usual [online schedule](https://www.ire.org/conferences/nicar18/schedule/).*
 
 <br>
 #### **1993 — Computing: The News Frontier. Putting Bytes Into Your Bark**
