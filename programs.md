@@ -40,13 +40,14 @@ Here they are in list form. You can access the entire Dropbox folder [here](http
 [**2014 — CAR Baltimore**](https://www.dropbox.com/s/ob1lgfb6ccra8zk/2014.pdf?dl=0)<br>
 [**2015 — CAR Conference Atlanta**](https://www.dropbox.com/s/wlhm2qfn9hyok6g/2015.pdf?dl=0)<br>
 [**2016 — CAR Conference Denver**](https://www.dropbox.com/s/vz95whnamcmil2i/2016.pdf?dl=0)<br>
+[**2018 — CAR Conference Chicago**](https://www.dropbox.com/s/hef6pqjfgdmdt6z/2018.pdf?dl=0)<br>
 
 And below are the conference covers one-by-one, in all their pun-filled glory (my fave is the "Boston CAR Party"). Click on the image to go to the Dropbox link.
 
 <br>
 *\* Yes, that's a [Harry Potter](https://www.pottermore.com/collection/quidditch-through-ages-by-jkr) reference.
 <br><br>
-\*\* There was no NICAR 1996, and the NICAR 2001 was rescheduled due to 9/11. [NICAR 2017](http://ire.org/conferences/nicar2017/) has entered the digital age, and no paper copies of the program were made. [NICAR 2018](https://ire.org/conferences/nicar18/) has gotten even fancier, with an [interactive conference guide](https://www.ire.org/conferences/nicar18/nicar18-guide/) as well as the usual [online schedule](https://www.ire.org/conferences/nicar18/schedule/).*
+\*\* There was no NICAR 1996, and the NICAR 2001 was rescheduled due to 9/11. [NICAR 2017](http://ire.org/conferences/nicar2017/) has entered the digital age, and no paper copies of the program were made. [NICAR 2018](https://ire.org/conferences/nicar18/) has gotten even fancier, with an [interactive conference guide](https://www.ire.org/conferences/nicar18/nicar18-guide/) as well as the usual [online schedule](https://www.ire.org/conferences/nicar18/schedule/). **UPDATE:** IRE has made a PDF version of the 2018 conference program available, which I've included as a link on this page.*
 
 <br>
 #### **1993 — Computing: The News Frontier. Putting Bytes Into Your Bark**
@@ -136,6 +137,10 @@ And below are the conference covers one-by-one, in all their pun-filled glory (m
 #### **2016 — CAR Conference Denver**
 
 [<img src = "/images/2016.png" width="400" height="600"/>](https://www.dropbox.com/s/vz95whnamcmil2i/2016.pdf?dl=0) 
+
+#### **2018 — CAR Conference Chicago**
+
+[<img src = "/images/2018.png" width="400" height="600"/>](https://www.dropbox.com/s/vz95whnamcmil2i/2016.pdf?dl=0) 
 
 
 
