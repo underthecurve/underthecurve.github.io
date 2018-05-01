@@ -10,6 +10,8 @@ permalink: /bylines/
 
 [L.A.'s homelessness math is a bit off — totals are the same but increases are smaller](http://www.latimes.com/local/california/la-me-homeless-count-snap-story.html)
 
+[Talking with Meredith Broussard about 'Artificial Unintelligence'](http://www.latimes.com/books/la-ca-jc-meredith-broussard-20180426-htmlstory.html)
+
 [Cathy O'Neil, author of 'Weapons of Math Destruction,' on the dark side of big data](http://www.latimes.com/books/jacketcopy/la-ca-jc-cathy-oneil-20161229-story.html)
 
 [When the rest of the world elected women leaders](http://www.latimes.com/projects/la-fg-women-world-leaders/)
@@ -25,6 +27,8 @@ permalink: /bylines/
 ### Source
 
 [How We Found New Patterns in LA’s Homeless Arrest Data](https://source.opennews.org/articles/how-we-found-new-patterns-la-homeless-arrest/)
+
+[Nine Years of NICAR Lightning Talks (and Cats)](https://source.opennews.org/articles/nine-years-nicar-lightning-talks-and-cats/)
 
 [Peer Reviewing Our Data Stories](https://source.opennews.org/articles/peer-reviewing-our-data-stories/)
 <br>
