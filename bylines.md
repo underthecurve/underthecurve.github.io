@@ -4,6 +4,9 @@ title: Some Bylines
 permalink: /bylines/
 ---
 
+### Baltimore Sun
+
+
 ### Los Angeles Times
 
 [Huge increase in arrests of homeless in L.A. — but mostly for minor offenses](http://www.latimes.com/local/politics/la-me-homeless-arrests-20180204-story.html)
