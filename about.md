@@ -4,7 +4,11 @@ title: About
 permalink: /about/
 ---
 
+I'm a Data Journalist at The Baltimore Sun.
+
 This site is a chronicle of my experiences in journalism, beginning with my time as a 2016 Knight-Mozilla OpenNews fellow, based at the L.A. Times Data Desk.
+
+More about The Sun's Data Desk: [homepage](http://www.baltimoresun.com/news/data/) + [twitter](https://twitter.com/baltsundata)
 
 More about the fellowship: [OpenNews](https://opennews.org/what/fellowships/info/) 
 

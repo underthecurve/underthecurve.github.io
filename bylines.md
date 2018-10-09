@@ -5,7 +5,16 @@ permalink: /bylines/
 ---
 
 ### Baltimore Sun
+[How safe are Maryland's bridges?](http://www.baltimoresun.com/news/maryland/bs-md-bridge-collapse-maryland-20180815-story.html)
 
+[The gender gap is real — for crabs](http://www.baltimoresun.com/news/opinion/oped/bs-md-female-crab-20180829-story.html)
+
+[Maryland governor's debate: Hogan and Jealous' most heated exchanges](http://www.baltimoresun.com/news/maryland/politics/bs-md-debate-timeline-20180925-story.html)
+
+[Baltimore commutes again among nation's longest, Census data show](http://www.baltimoresun.com/news/maryland/bs-md-baltimore-commute-20180913-story.html)
+
+<br>
+<br>
 
 ### Los Angeles Times
 
