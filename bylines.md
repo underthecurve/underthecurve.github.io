@@ -12,7 +12,6 @@ permalink: /bylines/
 [Maryland governor's debate: Hogan and Jealous' most heated exchanges](http://www.baltimoresun.com/news/maryland/politics/bs-md-debate-timeline-20180925-story.html)
 
 [Baltimore commutes again among nation's longest, Census data show](http://www.baltimoresun.com/news/maryland/bs-md-baltimore-commute-20180913-story.html)
-
 <br>
 <br>
 
