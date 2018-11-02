@@ -6,6 +6,8 @@ permalink: /bylines/
 
 ### Baltimore Sun
 
+[Election apparitions: These Maryland 'ghost' precincts have no polling places or voters](http://www.baltimoresun.com/news/maryland/politics/bs-md-ghost-precincts-20181030-story.html)
+
 [Maryland nears record high voter registration — and independents make up the fastest-growing group](http://www.baltimoresun.com/news/maryland/politics/bs-md-2018-voter-registration-20181011-story.html)
 
 [Independent — or independent? To make sure you're really unaffiliated, check your Maryland registration](http://www.baltimoresun.com/news/maryland/politics/bs-md-unaffiliated-not-independent-20181015-story.html)
