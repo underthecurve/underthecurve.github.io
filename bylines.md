@@ -6,15 +6,17 @@ permalink: /bylines/
 
 ### Baltimore Sun
 
+[Maryland governor precinct-by-precinct: Where Hogan and Jealous got their votes](https://www.baltimoresun.com/news/maryland/politics/bs-md-governor-election-precinct-map-20181107-htmlstory.html)
+
 [Election apparitions: These Maryland 'ghost' precincts have no polling places or voters](http://www.baltimoresun.com/news/maryland/politics/bs-md-ghost-precincts-20181030-story.html)
 
 [Maryland nears record high voter registration — and independents make up the fastest-growing group](http://www.baltimoresun.com/news/maryland/politics/bs-md-2018-voter-registration-20181011-story.html)
 
-[Independent — or independent? To make sure you're really unaffiliated, check your Maryland registration](http://www.baltimoresun.com/news/maryland/politics/bs-md-unaffiliated-not-independent-20181015-story.html)
+[The gender gap is real — for crabs](http://www.baltimoresun.com/news/opinion/oped/bs-md-female-crab-20180829-story.html)
 
 [How safe are Maryland's bridges?](http://www.baltimoresun.com/news/maryland/bs-md-bridge-collapse-maryland-20180815-story.html)
 
-[The gender gap is real — for crabs](http://www.baltimoresun.com/news/opinion/oped/bs-md-female-crab-20180829-story.html)
+[Independent — or independent? To make sure you're really unaffiliated, check your Maryland registration](http://www.baltimoresun.com/news/maryland/politics/bs-md-unaffiliated-not-independent-20181015-story.html)
 
 [Maryland governor's debate: Hogan and Jealous' most heated exchanges](http://www.baltimoresun.com/news/maryland/politics/bs-md-debate-timeline-20180925-story.html)
 
