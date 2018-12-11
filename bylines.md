@@ -18,6 +18,10 @@ permalink: /bylines/
 
 [Independent — or independent? To make sure you're really unaffiliated, check your Maryland registration](http://www.baltimoresun.com/news/maryland/politics/bs-md-unaffiliated-not-independent-20181015-story.html)
 
+[Map: View Maryland's star ratings for schools near you](https://www.baltimoresun.com/news/maryland/education/bs-star-ratings-map-20181204-htmlstory.html)
+
+[What new Census data reveal about wealth, diversity, and connectivity in Maryland](https://www.baltimoresun.com/news/maryland/bs-md-acs-census-release-20181206-story.html)
+
 [Maryland governor's debate: Hogan and Jealous' most heated exchanges](http://www.baltimoresun.com/news/maryland/politics/bs-md-debate-timeline-20180925-story.html)
 
 [Baltimore commutes again among nation's longest, Census data show](http://www.baltimoresun.com/news/maryland/bs-md-baltimore-commute-20180913-story.html)
