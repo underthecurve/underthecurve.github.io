@@ -10,6 +10,8 @@ permalink: /bylines/
 
 [Election apparitions: These Maryland 'ghost' precincts have no polling places or voters](http://www.baltimoresun.com/news/maryland/politics/bs-md-ghost-precincts-20181030-story.html)
 
+[How one Baltimore comic writer brings James Baldwin's Parisian experience to life](https://www.baltimoresun.com/entertainment/bs-ae-jordan-clark-20181220-story.html)
+
 [Maryland nears record high voter registration — and independents make up the fastest-growing group](http://www.baltimoresun.com/news/maryland/politics/bs-md-2018-voter-registration-20181011-story.html)
 
 [The gender gap is real — for crabs](http://www.baltimoresun.com/news/opinion/oped/bs-md-female-crab-20180829-story.html)
