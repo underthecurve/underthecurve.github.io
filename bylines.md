@@ -10,6 +10,8 @@ permalink: /bylines/
 
 [Election apparitions: These Maryland 'ghost' precincts have no polling places or voters](http://www.baltimoresun.com/news/maryland/politics/bs-md-ghost-precincts-20181030-story.html)
 
+[Lunar New Year foods: 3 dishes to ring in the Year of the Pig](https://www.baltimoresun.com/entertainment/dining/bs-fo-taste-lunar-new-year-20190117-story.html)
+
 [How one Baltimore comic writer brings James Baldwin's Parisian experience to life](https://www.baltimoresun.com/entertainment/bs-ae-jordan-clark-20181220-story.html)
 
 [Maryland nears record high voter registration — and independents make up the fastest-growing group](http://www.baltimoresun.com/news/maryland/politics/bs-md-2018-voter-registration-20181011-story.html)
@@ -17,6 +19,8 @@ permalink: /bylines/
 [The gender gap is real — for crabs](http://www.baltimoresun.com/news/opinion/oped/bs-md-female-crab-20180829-story.html)
 
 [How safe are Maryland's bridges?](http://www.baltimoresun.com/news/maryland/bs-md-bridge-collapse-maryland-20180815-story.html)
+
+[When Mr. Robot met Mr. Poe: the curious case of the chess-playing machine](https://www.baltimoresun.com/features/retro-baltimore/bs-fe-retro-poe-robot-20190117-story.html)
 
 [Independent — or independent? To make sure you're really unaffiliated, check your Maryland registration](http://www.baltimoresun.com/news/maryland/politics/bs-md-unaffiliated-not-independent-20181015-story.html)
 
@@ -47,6 +51,12 @@ permalink: /bylines/
 [Who gives money to Bernie Sanders?](http://www.latimes.com/projects/la-na-pol-sanders-donors/)
 
 [Finding books in the least expected places around L.A.](http://www.latimes.com/books/jacketcopy/la-ca-jc-books-everywhere-20170217-story.html)
+<br>
+<br>
+
+### Howard Magazine
+
+[Diversity by the numbers: As Howard County has grown, so has its racial and cultural mix](https://www.baltimoresun.com/news/maryland/howard/howard-magazine/bs-mg-ho-diversity-data-20190109-story.html)
 <br>
 <br>
 
