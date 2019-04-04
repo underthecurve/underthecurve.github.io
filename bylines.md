@@ -6,6 +6,8 @@ permalink: /bylines/
 
 ### Baltimore Sun
 
+[After years of failing to get Baltimore's vacants below 17,000, city launches a new push to reverse the trend](https://www.baltimoresun.com/news/maryland/politics/bs-md-ci-vacant-demolition-20190214-story.html)
+
 [Maryland governor precinct-by-precinct: Where Hogan and Jealous got their votes](https://www.baltimoresun.com/news/maryland/politics/bs-md-governor-election-precinct-map-20181107-htmlstory.html)
 
 [Election apparitions: These Maryland 'ghost' precincts have no polling places or voters](http://www.baltimoresun.com/news/maryland/politics/bs-md-ghost-precincts-20181030-story.html)
