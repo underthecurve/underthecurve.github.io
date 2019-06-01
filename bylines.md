@@ -6,6 +6,8 @@ permalink: /bylines/
 
 ### Baltimore Sun
 
+[Analysis of ransomware used in Baltimore attack indicates hackers needed 'unfettered access' to city computers](https://www.baltimoresun.com/news/maryland/politics/bs-md-ci-ransomware-attack-20190517-story.html)
+
 [After years of failing to get Baltimore's vacants below 17,000, city launches a new push to reverse the trend](https://www.baltimoresun.com/news/maryland/politics/bs-md-ci-vacant-demolition-20190214-story.html)
 
 [Maryland governor precinct-by-precinct: Where Hogan and Jealous got their votes](https://www.baltimoresun.com/news/maryland/politics/bs-md-governor-election-precinct-map-20181107-htmlstory.html)
@@ -19,6 +21,8 @@ permalink: /bylines/
 [Maryland nears record high voter registration — and independents make up the fastest-growing group](http://www.baltimoresun.com/news/maryland/politics/bs-md-2018-voter-registration-20181011-story.html)
 
 [The gender gap is real — for crabs](http://www.baltimoresun.com/news/opinion/oped/bs-md-female-crab-20180829-story.html)
+
+[Old Bay gets all the credit. Meet J.O., the seasoning that crab houses use.](https://www.baltimoresun.com/food-drink/bs-fo-old-bay-jo-crabs-20190424-story.html)
 
 [How safe are Maryland's bridges?](http://www.baltimoresun.com/news/maryland/bs-md-bridge-collapse-maryland-20180815-story.html)
 
