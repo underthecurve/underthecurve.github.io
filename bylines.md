@@ -6,11 +6,15 @@ permalink: /bylines/
 
 ### Baltimore Sun
 
-[Baltimore’s highest-paid city employee is police sergeant charged with assaulting bystander](https://www.baltimoresun.com/maryland/baltimore-city/bs-md-ci-baltimore-city-salaries-20191007-3dxreljal5b3jgbmfzgx2ic7dm-story.html)
+[Just how remarkable was Lamar Jackson’s MVP season? Six visualizations put the Ravens quarterback’s performance in perspective.](https://www.baltimoresun.com/sports/ravens/bs-sp-lamar-jackson-2019-by-the-numbers-20200202-tztut23q3fayvhvokryblnlv7a-story.html)
+
+[Call 311 for a dirty alley in Baltimore? City’s response depends on where you live](https://www.baltimoresun.com/politics/bs-md-pol-311-response-20191211-ogy5qp5vkbdoxo4cmz73zvpvvi-story.html)
 
 [Baltimore is furiously knocking down vacant houses — but barely keeps up as new ones go empty](https://www.baltimoresun.com/politics/bs-md-ci-vacants-demolition-progress-20191018-mw3cb5vlbjb4dmnxlbjvjg7tdy-story.html)
 
 [Baltimore’s white population swells with millennials, resembling D.C., Brooklyn](https://www.baltimoresun.com/maryland/baltimore-city/bs-md-census-estimate-population-race-20190619-story.html)
+
+[Baltimore’s highest-paid city employee is police sergeant charged with assaulting bystander](https://www.baltimoresun.com/maryland/baltimore-city/bs-md-ci-baltimore-city-salaries-20191007-3dxreljal5b3jgbmfzgx2ic7dm-story.html)
 
 [Analysis of ransomware used in Baltimore attack indicates hackers needed 'unfettered access' to city computers](https://www.baltimoresun.com/news/maryland/politics/bs-md-ci-ransomware-attack-20190517-story.html)
 
@@ -18,25 +22,17 @@ permalink: /bylines/
 
 [Election apparitions: These Maryland 'ghost' precincts have no polling places or voters](http://www.baltimoresun.com/news/maryland/politics/bs-md-ghost-precincts-20181030-story.html)
 
-[Independent — or independent? To make sure you're really unaffiliated, check your Maryland registration](http://www.baltimoresun.com/news/maryland/politics/bs-md-unaffiliated-not-independent-20181015-story.html)
-
 [Maryland nears record high voter registration — and independents make up the fastest-growing group](http://www.baltimoresun.com/news/maryland/politics/bs-md-2018-voter-registration-20181011-story.html)
 
 [How safe are Maryland's bridges?](http://www.baltimoresun.com/news/maryland/bs-md-bridge-collapse-maryland-20180815-story.html)
 
 [How Baltimore’s first female reporter used maps and data to save Edgar Allan Poe’s Amity Street home](https://www.baltimoresun.com/features/retro-baltimore/bs-fe-retro-poe-amity-street-demolition-20191007-h55cdgtoznaczgnjk4zvnptwom-story.html)
 
-[How one Baltimore comic writer brings James Baldwin's Parisian experience to life](https://www.baltimoresun.com/entertainment/bs-ae-jordan-clark-20181220-story.html)
-
 [The gender gap is real — for crabs](http://www.baltimoresun.com/news/opinion/oped/bs-md-female-crab-20180829-story.html)
 
 [Old Bay gets all the credit. Meet J.O., the seasoning that crab houses use.](https://www.baltimoresun.com/food-drink/bs-fo-old-bay-jo-crabs-20190424-story.html)
 
-[When Mr. Robot met Mr. Poe: the curious case of the chess-playing machine](https://www.baltimoresun.com/features/retro-baltimore/bs-fe-retro-poe-robot-20190117-story.html)
-
 [Lunar New Year foods: 3 dishes to ring in the Year of the Pig](https://www.baltimoresun.com/entertainment/dining/bs-fo-taste-lunar-new-year-20190117-story.html)
-
-[Maryland governor's debate: Hogan and Jealous' most heated exchanges](http://www.baltimoresun.com/news/maryland/politics/bs-md-debate-timeline-20180925-story.html)
 
 <br>
 <br>
@@ -98,13 +94,13 @@ permalink: /bylines/
 <br>
 ### Data Skeptic
 
-[Sports metaphors and probability: Thoughts from a non-sports enthusiast](https://dataskeptic.com/blog/polling/2017/sports-metaphors-and-probability-thoughts-from-a-non-sports-enthusiast)
+[Sports metaphors and probability: Thoughts from a non-sports enthusiast](https://github.com/data-skeptic/blog/blob/master/polling/2017/sports-metaphors-and-probability.md)
 
-[The Economist talks election forecasting](https://dataskeptic.com/blog/polling/2017/the-economist-talks-election-forecasting)
+[The Economist talks election forecasting](https://github.com/data-skeptic/blog/blob/master/polling/2017/the-economist-talks-election-forecasting.md)
 
 [How America voted in 2016: datasets to help us figure it out](https://dataskeptic.com/blog/polling/2017/how-america-voted-in-2016-datasets-to-help-us-figure-it-out)
 
-[Everything I've learned about the USC/L.A. Times poll](https://dataskeptic.com/blog/polling/2017/everything-ive-learned-about-the-uscl.a.-times-poll)
+[Everything I've learned about the USC/L.A. Times poll](https://github.com/data-skeptic/blog/blob/master/polling/2017/everything-ive-learned-about-the-usc-la-times-poll.md)
 <br>
 <br>
 
