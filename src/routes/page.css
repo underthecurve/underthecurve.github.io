@@ -1,0 +1,15 @@
+:root {
+    --font-sans: Roboto, sans-serif;
+}
+a {
+    color: black;
+    text-decoration: underline;
+}
+i,
+em {
+    font-style: italic;
+}
+b,
+strong {
+    font-weight: 700;
+}
