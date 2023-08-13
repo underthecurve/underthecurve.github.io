@@ -8,7 +8,7 @@
 		"preview": "vite preview",
 		"lint": "prettier --plugin-search-dir . --check . && eslint .",
 		"format": "prettier --plugin-search-dir . --write .",
-		"pub": "npm run build && gh-pages -d build"
+		"pub": "npm run build && touch build/.nojekyll && gh-pages -d build -t true"
 	},
 	"devDependencies": {
 		"@googleapis/sheets": "^5.0.2",
