@@ -50,7 +50,7 @@
         </div>
 
         <div class="section others">
-            <h2>Others</h2>
+            <h2>Other</h2>
 
             {#each others as project}
                 <Project {project} />
