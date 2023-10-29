@@ -16,7 +16,7 @@
 <main>
     <h1>Christine Zhang</h1>
     <p>I am an <a href="https://www.nytimes.com/by/christine-zhang">editing resident</a> on the New York Times graphics desk. Before that, I was a data and graphics journalist at the Financial Times, Baltimore Sun and Los Angeles Times, and a research analyst at the Brookings Institution.</p>
-    <p><a href="czhang_resume_2023.pdf">My resume</a></p>
+    <p><a href="czhang_resume_2023.pdf">My résumé</a></p>
     <p>Some of my work:</p>
 
     <div class="projects">
