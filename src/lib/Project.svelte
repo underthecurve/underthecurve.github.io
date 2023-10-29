@@ -41,13 +41,13 @@
         margin-bottom: 5px;
     }
     img {
-        border: 1px solid black;
+        border: 0.8px solid #777;
         max-width: 100%;
         height: auto;
         margin-bottom: 5px;
     }
     video {
-        border: 1px solid black;
+        border: 0.8px solid #777;
         width: 100%;
         height: auto;
         margin-bottom: 5px;

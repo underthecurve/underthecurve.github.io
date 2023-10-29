@@ -14,9 +14,9 @@
 </script>
 
 <main>
-    <h1>Christine Zhang</h1>
-    <p>I am an <a href="https://www.nytimes.com/by/christine-zhang">editing resident</a> on the New York Times graphics desk. Before that, I was a data and graphics journalist at the Financial Times, Baltimore Sun and Los Angeles Times, and a research analyst at the Brookings Institution.</p>
-    <p><a href="czhang_resume_2023.pdf">My résumé</a></p>
+    <h1>CHRISTINE Y. ZHANG</h1>
+    <p>I am an <a href="https://www.nytimes.com/by/christine-zhang">editing resident</a> in the graphics department of <b>The New York Times</b>. Previously, I was a data and graphics journalist at the <b>Financial Times</b>, the <b>Baltimore Sun</b> and the <b>Los Angeles Times</b>, and a research analyst at the <b>Brookings Institution</b>.</p>
+    <p>You can download my résumé <b><a href="czhang_resume_2023.pdf">here</a></b>.</p>
     <p>Some of my work:</p>
 
     <div class="projects">
@@ -67,8 +67,9 @@
         margin: 1rem auto;
     }
     h1 {
+        /* text-align: center; */
         font-size: 1.75rem;
-        margin-bottom: 5px;
+        margin-bottom: 14px;
     }
     h2 {
         text-align: center;
